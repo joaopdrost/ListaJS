@@ -1,4 +1,4 @@
-var list = new OrderedLinkedList();
+var list = new lista_duplamente_encadeada_ordenada();
 
 $().ready(function () {
     $('#insert').click(insertElement);
